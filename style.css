@@ -1,0 +1,32 @@
+header{
+    background-color: blue;
+    color: white;
+    font-family: fantasy;
+}
+html, body, a, a:hover, button, .video-section img, iframe, .deferred-media__poster-button, input[type=checkbox], .custom_header_menu label span, .custom_header_menu label, .custom_header_menu, input[type=submit] {
+    cursor: url(https://cdn.shopify.com/s/files/1/0607/2306/9147/t/10/assets/right-32x32.png) 16 16,auto;
+}
+.Twitter{
+    color: black;
+    background-color: aqua;
+    border-radius: 5px;
+}
+.Insta{
+    color: black;
+    background-color: orange;
+    border-radius: 5px;
+}
+.TikTok{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+}
+.YT{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+}
+.MC{
+    font-family: Minecraft;
+    src: url(font/Minecraft.ttf);
+}

@@ -1,0 +1,23 @@
+.ENG{
+    color: blue;
+    font-family: Minecraft;
+    src: url(font/Minecraft.ttf);
+}
+.FR{
+    color: red;
+    font-family: Minecraft;
+    src: url(font/Minecraft.ttf);
+}
+.Alphas{
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    font-family: Minecraft;
+    src: url(font/Minecraft.ttf); font-weight: 5;
+}
+
+.Alpha{
+    color: white;
+    font-family: Minecraft;
+    src: url(font/Minecraft.ttf);
+}
